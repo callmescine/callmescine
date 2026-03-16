@@ -20,6 +20,8 @@ I'm here to build in the open. Ship tools. Solve hard problems. Contribute what 
 
 👧 **[Lilly](https://github.com/callmescine/Lilly)** — A personal AI family member built on [NanoClaw](https://github.com/qwibitai/NanoClaw). Not an assistant — a WhatsApp-native AI that talks like family, browses the web autonomously with a stealth-patched browser, sends real-time progress updates, and never says "I can't." Handles everything from booking flights to checking gold prices to ordering groceries. Built with deep personality engineering, anti-bot-detection, and a "Never Give Up" protocol.
 
+🌍 **[SmallWorld](https://github.com/callmescine/smallworld)** — An autonomous AI world simulation where LLM-powered agents live, build, invent, and reshape a 3D world in real time. No scripts, no rails — agents decide what to do each tick based on personality, needs, and goals. They form alliances, terraform terrain, invent technologies, construct buildings, and evolve a civilization from scratch. Built with a Three.js isometric frontend, FastAPI/WebSocket backend, and a fully configurable pre-simulation setup (world size, agent count, guardrails, LLM backend). The world itself expands as agents push its boundaries.
+
 More coming soon.
 
 ---
