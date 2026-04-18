@@ -22,6 +22,8 @@ I'm here to build in the open. Ship tools. Solve hard problems. Contribute what 
 
 👧 **[Lilly](https://github.com/callmescine/Lilly)** — A personal AI family member built on [NanoClaw](https://github.com/qwibitai/NanoClaw). Not an assistant — a WhatsApp-native AI that talks like family, browses the web autonomously with a stealth-patched browser, sends real-time progress updates, and never says "I can't." Handles everything from booking flights to checking gold prices to ordering groceries. Built with deep personality engineering, anti-bot-detection, and a "Never Give Up" protocol.
 
+📸 **[Snapcraft](https://github.com/callmescine/snapcraft)** — Professional screenshot tool for web apps. Renders React, Vue, Svelte, and HTML components via Vite SSR and Playwright — no dev server required. Applies device frames, gradient presets, shadows, and badges to produce App Store-quality screenshots from the CLI. Batch mode, interactive wizard, and a full post-processing pipeline built in.
+
 More coming soon.
 
 ---
